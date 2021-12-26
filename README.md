@@ -3,6 +3,8 @@ https://en.wikipedia.org/wiki/Brake_(sheet_metal_bending) https://en.wikipedia.o
 
 https://en.wikipedia.org/wiki/Bending_(metalworking) , https://en.wikipedia.org/wiki/Bending_(metalworking)#Bottoming
 
+https://en.wikipedia.org/wiki/Bending_machine_(manufacturing)
+
 https://en.wikipedia.org/wiki/Tube_bending
 
 https://en.wikipedia.org/wiki/Hemming_and_seaming , https://en.wikipedia.org/wiki/Automotive_hemming
