@@ -8,3 +8,5 @@ https://en.wikipedia.org/wiki/Bending_machine_(manufacturing)
 https://en.wikipedia.org/wiki/Tube_bending
 
 https://en.wikipedia.org/wiki/Hemming_and_seaming , https://en.wikipedia.org/wiki/Automotive_hemming
+
+https://en.wikipedia.org/wiki/Punching_machine
